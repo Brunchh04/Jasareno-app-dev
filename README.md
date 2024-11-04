@@ -1,3 +1,3 @@
 # Jasareno-app-dev
 My first repository
-**My favorite series?movie is Dragon Ball.**
+**My favorite series/movie is Dragon Ball.**
